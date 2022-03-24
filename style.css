@@ -1,0 +1,24 @@
+
+body {
+    /* background-image: url(https://picsum.photos/1024);
+    background-size: cover; */
+}
+
+a{
+    text-decoration: none;
+    color: darkblue;
+}
+
+h1{
+    border-bottom: 5px solid darkblue;
+}
+
+#container{
+    display: grid;
+    grid-template-columns: 200px 1fr ;
+
+}
+
+div{
+    /* background-color: white; */
+}
